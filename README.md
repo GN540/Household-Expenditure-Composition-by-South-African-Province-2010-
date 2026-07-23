@@ -20,4 +20,6 @@ Note: this dataset tracks three expenditure categories, not full household budge
 - Western Cape and Gauteng break the pattern; transport edges out housing. Western Cape spends 50.1% of this basket on transport vs. 45.7% on housing, the largest reversal in the dataset. Gauteng shows the same reversal but by a much narrower margin (48.7% vs 47.6%). (Earlier draft of this analysis attributed this only to Gauteng;  re-checking the numbers showed Western Cape is actually the stronger example of the two.)
 - Recreation and culture is consistently the smallest share everywhere, never exceeding ~4.2% of the basket in any province. This is worth noting as a limitation of the dataset (recreation spend may be undercounted or narrowly defined) as much as a finding about household priorities.
 
+  
+
 
